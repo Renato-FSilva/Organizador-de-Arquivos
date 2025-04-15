@@ -10,7 +10,9 @@ locais = {
     "videos": [".mp4"],
     "panilhas": [".xlsx"],
     "pdfs": [".pdf"],
-    "csv": [".csv"]
+    "csv": [".csv"],
+    "Docs": [".pptx", ".docx"],
+    "Program's": [".exe"]
 }
 
 for arquivos in lista_arquivos:
